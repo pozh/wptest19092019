@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / ic-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-/-Footer" transform="translate(-1170.000000, -77.000000)">
+            <g id="FF_Footer">
+                <g id="Icon-/-ic-facebook" transform="translate(1168.000000, 75.000000)">
+                    <g id="ic_facebook">
+                        <polygon id="Bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M19,4 L19,7 L17,7 C16.4477153,7 16,7.44771525 16,8 L16,10 L19,10 L19,13 L16,13 L16,20 L13,20 L13,13 L11,13 L11,10 L13,10 L13,7.5 C13,5.56 14.57,4 16.5,4 L19,4 Z M20,2 L4,2 C2.8954305,2 2,2.8954305 2,4 L2,20 C2,21.1045695 2.8954305,22 4,22 L20,22 C21.1045695,22 22,21.1045695 22,20 L22,4 C22,2.89 21.1,2 20,2 L20,2 Z" id="Icon-Shape" fill="#DD4BA3"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

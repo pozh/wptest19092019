@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-writer</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="03-Blog" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03.03-Blog---post" transform="translate(-625.000000, -441.000000)">
+            <g id="Group-2" transform="translate(347.000000, 299.000000)">
+                <g id="ic-writer" transform="translate(277.000000, 141.000000)">
+                    <g>
+                        <rect id="Rectangle" opacity="0.75" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M12,23 C5.92486775,23 1,18.0751322 1,12 C1,5.92486775 5.92486775,1 12,1 C18.0751322,1 23,5.92486775 23,12 C23,18.0751322 18.0751322,23 12,23 Z M12.2495833,6.5 C10.7279167,6.5 9.49958333,7.72833333 9.49958333,9.25 C9.49958333,10.7716667 10.7279167,12 12.2495833,12 C13.77125,12 14.9995833,10.7716667 14.9995833,9.25 C14.9995833,7.72833333 13.77125,6.5 12.2495833,6.5 Z M7.74516083,17.5 L16.7540058,17.5 C17.3047464,17.5 17.7495833,17.0895944 17.7495833,16.5833333 C17.7495833,14.75 14.0829167,13.7416667 12.2495833,13.7416667 C10.41625,13.7416667 6.74958333,14.75 6.74958333,16.5833333 C6.74958333,17.052408 7.19531856,17.5 7.74516083,17.5 Z" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

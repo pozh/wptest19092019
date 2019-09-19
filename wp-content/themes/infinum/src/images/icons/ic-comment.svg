@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / ic-comment</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="03-Blog" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03.01-Blog-Home" transform="translate(-663.000000, -2257.000000)">
+            <g id="Group-10-Copy-4" transform="translate(542.000000, 1865.000000)">
+                <g id="Group-9" transform="translate(1.000000, 387.000000)">
+                    <g id="Icon-/-ic-comment" transform="translate(115.000000, 0.000000)">
+                        <g>
+                            <rect id="Rectangle" opacity="0.75" x="0" y="0" width="24" height="24"></rect>
+                            <path d="M18.249452,14.62363 C18.6077703,13.7888346 18.8061969,12.869159 18.8061969,11.903138 C18.8061969,8.09064017 15.7155744,5 11.9030984,5 C8.09062244,5 5,8.09064017 5,11.903138 C5,15.7156359 8.09062244,18.8062761 11.9030984,18.8062761 C13.0583565,18.8062761 14.147333,18.5224892 15.1041199,18.020824 L19.0121609,18.8024322 C19.5562834,18.9112567 19.8336749,18.5841873 19.6285025,18.0712563 L18.249452,14.62363 Z" id="ic-comment" fill="#999999"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

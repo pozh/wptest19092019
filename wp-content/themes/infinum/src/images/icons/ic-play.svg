@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="94px" height="94px" viewBox="0 0 94 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ic-play</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="03-Blog" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03.02-Blog---post" transform="translate(-675.000000, -1884.000000)" fill="#FFFFFF">
+            <g id="Group-13-Copy" transform="translate(249.000000, 1665.000000)">
+                <g id="Group-5-Copy">
+                    <g id="Group-10">
+                        <g id="ic-play" transform="translate(426.000000, 219.000000)">
+                            <path d="M47.002,0.162 C21.176,0.162 0.167,21.171 0.167,47.003 C0.167,72.829 21.176,93.838 47.002,93.838 C72.828,93.838 93.832,72.829 93.832,47.003 C93.832,21.171 72.828,0.162 47.002,0.162 Z M47.002,83.871 C26.642,83.871 10.127,67.363 10.127,47.003 C10.127,26.634 26.642,10.129 47.002,10.129 C67.363,10.129 83.875,26.634 83.875,47.003 C83.875,67.363 67.363,83.871 47.002,83.871 Z" id="Shape"></path>
+                            <path d="M37.563,31.64 C36.734,30.807 34.614,30.807 34.614,31.64 L34.614,65.485 C34.614,66.319 36.739,66.319 37.571,65.485 L65.352,50.068 C66.184,49.239 66.198,47.89 65.368,47.058 L37.563,31.64 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="12px" viewBox="0 0 13 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / ic-heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="03-Blog" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03.01-Blog-Home" transform="translate(-549.000000, -2258.000000)">
+            <g id="Group-10-Copy-4" transform="translate(542.000000, 1865.000000)">
+                <g id="Group-9" transform="translate(1.000000, 387.000000)">
+                    <g id="Icon-/-ic-heart">
+                        <g>
+                            <rect id="Rectangle" opacity="0.75" x="0" y="0" width="24" height="24"></rect>
+                            <path d="M12.5,18 L11.5575,17.1367847 C8.21,14.0828338 6,12.0686649 6,9.59673025 C6,7.58256131 7.573,6 9.575,6 C10.706,6 11.7915,6.52970027 12.5,7.36675749 C13.2085,6.52970027 14.294,6 15.425,6 C17.427,6 19,7.58256131 19,9.59673025 C19,12.0686649 16.79,14.0828338 13.4425,17.1433243 L12.5,18 L12.5,18 Z" id="ic-heart" fill="#999999"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
