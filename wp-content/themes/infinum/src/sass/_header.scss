@@ -18,4 +18,23 @@
   &__nav {
     margin-left: auto;
   }
+
+  &__actions {
+
+    margin-left: 50px;
+
+    li {
+      display: inline-block;
+
+      & + li {
+        margin-left: 15px;
+      }
+    }
+
+    img {
+      vertical-align: middle;
+      margin-right: 5px;
+      transform: translateY(-3px);
+    }
+  }
 }
