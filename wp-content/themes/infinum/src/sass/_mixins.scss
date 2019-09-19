@@ -42,3 +42,12 @@
     background-size: $width $height;
   }
 }
+
+@mixin font($family, $file) {
+  @font-face {
+    font-family: $family;
+    src: url($file + '.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+  }
+}

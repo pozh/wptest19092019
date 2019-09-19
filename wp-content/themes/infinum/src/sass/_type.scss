@@ -1,8 +1,22 @@
+@include font('MuseoSansRounded100', '../fonts/MuseoSansRounded-100');
+@include font('MuseoSansRounded300', '../fonts/MuseoSansRounded-300');
+@include font('MuseoSansRounded500', '../fonts/MuseoSansRounded-500');
+@include font('MuseoSansRounded700', '../fonts/MuseoSansRounded-700');
+@include font('MuseoSansRounded900', '../fonts/MuseoSansRounded-900');
+@include font('MuseoSansRounded1000', '../fonts/MuseoSansRounded-1000');
+
 body {
   font-size: 110%;
+  font-family: MuseoSansRounded500, Arial, sans-serif;
   color: $color-text;
 }
 
 a {
   text-decoration: none;
+}
+
+
+// Utils
+.text-uppercase {
+  text-transform: uppercase !important;
 }
