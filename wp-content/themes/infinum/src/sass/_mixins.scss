@@ -1,0 +1,29 @@
+// Responsiveness
+@mixin screen($size) {
+
+  @if $size == xs {
+    @media (max-width: 767px) {
+      @content;
+    }
+  } @else if $size == sm {
+    @media (min-width: 768px) and (max-width: 991px) {
+      @content;
+    }
+  } @else if $size == sm-up {
+    @media (min-width: 768px) {
+      @content;
+    }
+  } @else if $size == md {
+    @media (min-width: 992px) and (max-width: 1199px) {
+      @content;
+    }
+  } @else if $size == md-up {
+    @media (min-width: 992px) {
+      @content;
+    }
+  } @else if $size == lg {
+    @media (min-width: 1200px) {
+      @content;
+    }
+  }
+}
