@@ -17,16 +17,6 @@ gulp.task('js', function() {
     .pipe(bsync.reload({stream: true}));
 });
 */
-
-gulp.task('views', function(){
-  return gulp.src([
-      './*.html',
-    ])
-    .pipe(gulp.dest('./../assets/'))
-    .pipe(bsync.reload({stream: true, reloadDelay: 300}));
-});
-
-
 gulp.task('styles', function () {
   var sassOptions = {
     includePaths: [
@@ -57,9 +47,7 @@ gulp.task('images', function() {
 
 gulp.task('browser-sync', function() {
   bsync({
-    server: {
-      baseDir: './../assets/'
-    },
+    proxy: "http://infinum.local",
     ghostMode: true,
     notify: false
   });
@@ -70,10 +58,10 @@ gulp.task('watch', ['build'], function() {
   gulp.watch(['images', 'images/**/*'], ['images']);
   gulp.watch('sass/*', ['styles']);
   //gulp.watch('src/assets/js/*', ['js']);
-  gulp.watch('*.html', ['views']);
+  //gulp.watch('*.html', ['views']);
   gulp.start('browser-sync');
 });
 
 
-gulp.task('build', ['styles', 'views', 'images']);
+gulp.task('build', ['styles', 'images']);
 gulp.task('default', ['build']);
