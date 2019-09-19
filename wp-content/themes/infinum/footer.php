@@ -1,14 +1,20 @@
-<footer class="footer">
+<?php
+	$ico_baseuri = get_template_directory_uri() . '/assets/images/icons/';
+?>
+
+<footer class="footer-wrapper">
 	<div class="container">
-		<div class="footer-info">
-			<div class="footer-info__main">
+		<div class="footer">
+			<div class="footer__main">
 				<div class="footer__logo"></div>
 				<p>&copy; <?php _e( date( 'Y' ) ); ?> Uniduck. All rights reserved</p>
 			</div>
-			<div class="footer-info__actions">
-				<a href="">Like <span>Uniduck</span> on <i class="footer-icon__fb"></i></a>
-				<a href="">Follow <span>Uniduck</span> on <i class="footer-icon__twitter"></i></a>
-				<a href="">Follow <span>Uniduck</span> on <i class="footer-icon__instagram"></i></a>
+			<div class="footer__actions">
+				<ul>
+					<li><a href="">Like <span>Uniduck</span> on <img src="<?php echo $ico_baseuri . 'ic-facebook.svg' ?>" alt=""></a></li>
+					<li><a href="">Follow <span>Uniduck</span> on <img src="<?php echo $ico_baseuri . 'ic-twitter.svg' ?>" alt=""></a></li>
+					<li><a href="">Follow <span>Uniduck</span> on <img src="<?php echo $ico_baseuri . 'ic-instagram.svg' ?>" alt=""></a></li>
+				</ul>
 			</div>
 		</div>
 	</div>

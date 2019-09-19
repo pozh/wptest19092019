@@ -1,0 +1,51 @@
+.footer-wrapper {
+  background: $grey-light;
+  padding: 70px 0;
+  border-top: 1px solid darken($grey-light, 11%);
+
+}
+
+.footer {
+  display: flex;
+
+  &__main {
+  }
+
+  &__actions {
+    margin-left: auto;
+    text-align: right;
+
+    li {
+
+      & + li {
+        margin-top: 20px;
+      }
+
+      img {
+        vertical-align: middle;
+        margin-left: 4px;
+      }
+    }
+
+    a {
+      color: $color-text;
+
+      span {
+        color: $color-primary;
+      }
+    }
+  }
+
+  &__logo {
+    width: 172px;
+    height: 24px;
+    background: url(../images/Logo.png) no-repeat;
+    margin: 0 0 20px 0;
+  }
+}
+
+.footer-icon {
+  display: inline-block;
+
+  background: red;
+}
