@@ -8,7 +8,7 @@
     display: block;
     width: 172px;
     height: 24px;
-    background: url(../images/Logo.png) no-repeat;
+    @include imgRetina('../images/Logo', png, 172px, 24px);
 
     span {
       display: none;

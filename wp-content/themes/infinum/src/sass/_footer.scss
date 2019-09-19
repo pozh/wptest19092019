@@ -50,7 +50,7 @@
   &__logo {
     width: 172px;
     height: 24px;
-    background: url(../images/Logo.png) no-repeat;
+    @include imgRetina('../images/Logo', png, 172px, 24px);
     margin: 0 0 20px 0;
   }
 }
