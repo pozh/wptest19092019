@@ -1,0 +1,19 @@
+.container {
+  background: red;
+  padding: 0 1rem;
+
+  @include screen(sm-up) {
+    max-width: $sm;
+    margin: 0 auto;
+  }
+
+  @include screen(md-up) {
+    padding: 0;
+    max-width: $md;
+  }
+
+  @include screen(lg) {
+    max-width: $lg;
+  }
+
+}
