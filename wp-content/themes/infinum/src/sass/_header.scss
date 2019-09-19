@@ -3,6 +3,11 @@
   padding-top: $spacer;
   padding-bottom: $spacer;
   align-items: center;
+  flex-direction: column;
+
+  @include screen(sm-up) {
+    flex-direction: row;
+  }
 
   &__logo {
     display: block;
@@ -16,12 +21,21 @@
   }
 
   &__nav {
-    margin-left: auto;
+
+    @include screen(xs) {
+      margin: 20px 0;
+    }
+
+    @include screen(sm-up) {
+      margin-left: auto;
+    }
   }
 
   &__actions {
 
-    margin-left: 50px;
+    @include screen(sm-up) {
+      margin-left: 50px;
+    }
 
     li {
       display: inline-block;
