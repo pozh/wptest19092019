@@ -2,18 +2,29 @@
   background: $grey-light;
   padding: 70px 0;
   border-top: 1px solid darken($grey-light, 11%);
-
 }
 
 .footer {
   display: flex;
+  flex-direction: column;
+
+  @include screen(sm-up) {
+    flex-direction: row;
+  }
 
   &__main {
   }
 
   &__actions {
-    margin-left: auto;
-    text-align: right;
+
+    @include screen(xs) {
+      margin-top: 40px;
+    }
+
+    @include screen(sm-up) {
+      text-align: right;
+      margin-left: auto;
+    }
 
     li {
 
